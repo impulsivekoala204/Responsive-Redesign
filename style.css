@@ -1,14 +1,23 @@
 body{
     color:black;
     font-family: 'Poppins', serif;
+    margin:0;
 }
 .under-img{
-    padding-top:5%;
-    padding-left:5%;
+    /* padding-top:5%;
+    padding-left:5%; */
+}
+.context{
+    font-size:0.7vw;
 }
 .b-link{
+    padding-top:10%;
+    padding-left:40%;
+    color:white;
+}
+.img-yc{
+    padding-left:31%;
     padding-top:5%;
-    padding-left:35%;
 }
 .ss{
     width:80%;
@@ -17,7 +26,8 @@ body{
 .under-text{
     font-size:13px;
     letter-spacing: 2px;
-    padding-left:29%;
+    padding-left:37vw;
+    color:white;
 }
 .part-one{
     padding-top:8%;
@@ -67,7 +77,17 @@ li{
 .fin-text{
     padding-top:4%;
     font-size:10px;
-    padding-bottom:4%;
+    padding-bottom:1.5%;
     letter-spacing: 30px;
     padding-left:48%;
+}
+.blue-section{
+    background-color: #12A5E4;
+    margin:0;
+    height:30vw;
+}
+.back{
+    padding-left: 48.25vw;
+    padding-bottom:2vw;
+    color:black;
 }
